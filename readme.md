@@ -15,4 +15,5 @@ Se o valor total da compra for maior ou igual a R$ 200,00 e menor que R$ 300,00,
 Se o valor total da compra for maior ou igual a R$ 300,00, o cliente recebe um desconto de 15%.
 
 ![Static Badge](https://img.shields.io/badge/%E2%96%B6%EF%B8%8FExecutar-red)
+
 Informe somente o valor da compra para que o sistema efetue o calculo. 
